@@ -45,8 +45,8 @@ npx expo start
 
 | Color            | Hex                                                              |
 | ---------------- | ---------------------------------------------------------------- |
-| Background Color | ![#F3EFEF](https://via.placeholder.com/10/0a192f?text=+) #F3EFEF |
-| Highlight Color  | ![#E6287D](https://via.placeholder.com/10/00b48a?text=+) #E6287D |
+| Background Color | ![#F3EFEF](https://via.placeholder.com/10/f3efef?text=+) #F3EFEF |
+| Highlight Color  | ![#E6287D](https://via.placeholder.com/10/e6287d?text=+) #E6287D |
 
 ## Authors
 
