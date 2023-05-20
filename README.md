@@ -35,9 +35,11 @@ npx expo start
 
 ## Screenshots
 
-![image description](./assets/images/screenshots/add-category-page.PNG)
-![image description](./assets/images/screenshots/done-zone-task-manager.PNG)
-![image description](./assets/images/screenshots/add-task.PNG)
+<p align="center">
+  <img src="./assets/images/screenshots/add-category-page.PNG" width="100" title="screenshot add category">
+  <img src="./assets/images/screenshots/done-zone-task-manager.PNG" width="100" title="screenshot task overview">
+  <img src="./assets/images/screenshots/add-task.PNG" width="100" title="screenshot add task">
+</p>
 
 ## Color Reference
 
