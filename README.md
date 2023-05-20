@@ -43,10 +43,11 @@ npx expo start
 
 ## Color Reference
 
-| Color            | Hex                                                              |
-| ---------------- | ---------------------------------------------------------------- |
-| Background Color | ![#F3EFEF](https://via.placeholder.com/10/f3efef?text=+) #F3EFEF |
-| Highlight Color  | ![#E6287D](https://via.placeholder.com/10/e6287d?text=+) #E6287D |
+| Color                 | Hex                                                              |
+| --------------------- | ---------------------------------------------------------------- |
+| Background Color      | ![#534D52](https://via.placeholder.com/10/534d52?text=+) #534D52 |
+| Text Input Background | ![#F3EFEF](https://via.placeholder.com/10/f3efef?text=+) #F3EFEF |
+| Highlight Color       | ![#E6287D](https://via.placeholder.com/10/e6287d?text=+) #E6287D |
 
 ## Authors
 
